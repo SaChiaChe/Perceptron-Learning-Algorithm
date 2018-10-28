@@ -46,14 +46,14 @@ Basically same as PLA.py
 ### PLA-Limited_Updates.py
 
 This runs PLA with limited updates.
-It will haly after a desired number of updates.
+It will halt after a desired number of updates.
 This works withnon-linear-seperable data.
 
 ### PLA-Pocket_Algorithm.py
 
 This runs PLA with the pocket algorithm, 
-which means that it will record the best result throuout the process, 
-and out put the best one in a limited time of update.
+which means that it will record the best result throughout the process, 
+and output the best one in a limited time of update.
 This works with non-linear-seperable data.
 
 ## Built With
